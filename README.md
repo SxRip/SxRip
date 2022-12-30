@@ -10,6 +10,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neverlandXXI)
 [![DISCORD](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289da)](https://discordapp.com/users/468795369216802817/)
 
+<p align="center">
+<a href="https://discord.com/users/468795369216802817"><code><img src="https://discord.c99.nl/widget/theme-3/566566562031468554.png" height="80px"></code></a>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sxrip/count.svg" />
