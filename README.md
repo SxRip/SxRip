@@ -10,7 +10,6 @@
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neverlandXXI)
-[![DISCORD](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289da)](https://discordapp.com/users/468795369216802817/)
 
 <p align="center"> 
   Visitor count<br>
