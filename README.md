@@ -6,15 +6,15 @@
 
 🌱 **Projects**:
 
-- `💉` **`XR-1337`**<br>
+- `🏴‍☠️` **`XR-1337`**<br>
 \\___[ Platform for creation modification for the games based on assembly and hooking in-game functions.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
 
-- `🐔` **`LOADER`**<br>
+- `💉` **`LOADER`**<br>
 \\___[ Loader with the stealth techniques for loading the modifications of XR-1337 platform.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`, `kernel`
 
-- `🐧` **`KERNEL PLATFORM`**<br>
+- `🌟` **`KERNEL PLATFORM`**<br>
 \\___[ Custom component for XR-1337 platform which allows modifications work in kernel mode. On hold right now.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `c++`, `asm`, `kernel`
 
