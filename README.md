@@ -2,6 +2,22 @@
 
 ![Header](https://github.com/SxRip/SxRip/blob/master/assets/sxRIP.png)
 
+💬 **Me**: cybersecurity security enthusiast focusing on offensive development, operating system internals and reverse engineering.
+
+🌱 **Projects**:
+
+- `💉` **`XR-1337`**<br>
+\\___[ Platform for creation modification for the games based on assembly and hooking in-game functions.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
+
+- `🐔` **`LOADER`**<br>
+\\___[ Loader with the stealth techniques for loading the modifications of XR-1337 platform.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`, `kernel`
+
+- `🐧` **`KERNEL PLATFORM`**<br>
+\\___[ Custom component for XR-1337 platform which allows modifications work in kernel mode. On hold right now.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `c++`, `asm`, `kernel`
+
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-STL-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
